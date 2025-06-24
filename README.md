@@ -10,5 +10,6 @@ Each exercise is organized by programming language and aims to cover a range of 
     Java: Explore object-oriented programming, data structures, and enterprise-level concepts.
     Python: Practice scripting, data manipulation, and high-level problem-solving.
     SQL: Enhance your database querying, design, and manipulation skills.
+    Php
 
 Feel free to browse, contribute, and use these exercises to reinforce your understanding of different programming concepts. Happy coding!
