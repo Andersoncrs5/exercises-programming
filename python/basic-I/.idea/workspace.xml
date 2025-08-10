@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c057bc-f236-4030-a4d6-0bc12e6c6075" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MypyPlugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#task24.py#" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task30.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +54,12 @@
     "Python.task19.executor": "Run",
     "Python.task2.executor": "Run",
     "Python.task20.executor": "Run",
+    "Python.task26.executor": "Run",
+    "Python.task27.executor": "Run",
+    "Python.task28.executor": "Run",
+    "Python.task29.executor": "Run",
     "Python.task3.executor": "Run",
+    "Python.task30.executor": "Run",
     "Python.task4.executor": "Run",
     "Python.task5.executor": "Run",
     "Python.task6.executor": "Run",
@@ -63,7 +74,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.task20">
+  <component name="RunManager" selected="Python.task30">
     <configuration name="task0" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
@@ -86,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task26.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task17.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task27.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task18.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task29" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +176,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task19.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task29.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic-I" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,7 +198,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task20.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task20" />
-        <item itemvalue="Python.task19" />
-        <item itemvalue="Python.task18" />
-        <item itemvalue="Python.task17" />
-        <item itemvalue="Python.task16" />
+        <item itemvalue="Python.task30" />
+        <item itemvalue="Python.task29" />
+        <item itemvalue="Python.task28" />
+        <item itemvalue="Python.task27" />
+        <item itemvalue="Python.task26" />
       </list>
     </recent_temporary>
   </component>
